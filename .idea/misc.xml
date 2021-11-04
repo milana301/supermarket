@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/Prilojenie1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/Prilojenie2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/Prilojenie3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/Prilojenie4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/Prilojenie5.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/Prilojenie6.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/Prilojenie7.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/bottom_bar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/eighth.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/fifth.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/fourth.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/fragment_dashboard.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/fragment_home.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/fragment_notifications.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/project1.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/project2.xml" value="0.2324074074074074" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/project3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/project4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/prostotak.xml" value="0.2324074074074074" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/second.xml" value="0.176" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/seventh.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/sixth.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/third.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/layout/third_one.xml" value="0.11170212765957446" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication2222/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
